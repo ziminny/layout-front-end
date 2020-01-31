@@ -1,0 +1,25 @@
+{
+  "name": "layout-front-end",
+  "version": "1.0.0",
+  "description": "Layout ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziminny/layout-front-end.git"
+  },
+  "author": "Vagner Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ziminny/layout-front-end/issues"
+  },
+  "homepage": "https://github.com/ziminny/layout-front-end#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.0",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1"
+  }
+}

@@ -9879,6 +9879,20 @@ html, body {
   height: 100%;
 }
 
+.mini-banners:hover {
+  cursor: pointer;
+}
+
+.selected-item-cards-corpo {
+  background-color: #002A50 !important;
+  color: white !important;
+}
+
+.selected-item-cards-sub-titulo {
+  background-color: #002A50 !important;
+  color: #a8b7b5 !important;
+}
+
 .img-banner {
   border-radius: 50%;
   width: 105px;
